@@ -5,4 +5,22 @@
     <string name="crime_details_label">Details</string>
     <string name="crime_solved_label">Solved</string>
     <string name="data_picker_title">Data of crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+    <string name="delete_crime">Delete Crime</string>
+    <string name="choose_suspect_button">CHOOSE SUSPECT</string>
+    <string name="send_crime_report_button">SEND CRIME REPORT</string>
+    <string name="crime_report">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">There is no suspect</string>
+    <string name="crime_report_suspect">suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="crime_dial">DIAL</string>
+    <string name="crime_call_text">Call suspect: %s</string>
 </resources>
